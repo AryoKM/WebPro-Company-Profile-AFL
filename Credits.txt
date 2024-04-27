@@ -1,0 +1,18 @@
+# Credits & Notes
+
+• Aryo, i made the website
+• Honkai: Star Rail
+• ChatGPT, very useful for coming up with filler words since lorem ipsum isn't allowed. not very useful in creating the website itself..
+• https://colorhunt.co/palette/ffdbc39f91cc5c4b993d246c <- website accent inspo
+• Bootstrap Documentations & Examples
+• Material Design for Bootstrap (MDB)
+• FontAwesome, highly recommended for ui icons fr
+• Countless of websites used as inspiration and tbh I didn't keep track
+• My lecturer for giving me insights about web programming
+• My friends for critiques and suggestion
+• Anime and memes for keeping me sane during AFL
+
+- all media belongs to their respective owners. -
+
+ty & peace out - oreo.re
+p.s give me A+
